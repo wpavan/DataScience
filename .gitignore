@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
